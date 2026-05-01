@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- ✅ Solution URL: [Frontend solution](https://your-solution-url.com)
-- 🌐 Live Site URL: [Live site](https://your-live-site-url.com)
+- ✅ Solution URL: [Frontend solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-layout-using-html-and-css-UR7BsZBjvq)
+- 🌐 Live Site URL: [GitHub Pages](https://swaandafj.github.io/blog-preview-FrontendMentor/)
 
 ## My process
 
@@ -68,7 +68,7 @@ Going forward, I hope to:
 
 ## Author
 
-- 🌐 Website - [GitHub Pages](https://www.your-site.com)
+- 🌐 Website - [GitHub Pages](https://swaandafj.github.io/blog-preview-FrontendMentor/)
 - Frontend Mentor - [@swaandaFJ](https://www.frontendmentor.io/profile/swaandaFJ)
 - Twitter - [@swaan_dagwi](https://www.twitter.com/swaan_dagwi)
 - Instagram - [@swaandagwi](https://www.instagram.com/swaandagwi)
